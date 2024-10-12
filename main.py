@@ -72,6 +72,6 @@ for _ in range(iterations):
 
     ax1.set_title("Random View")
     
-    plt.pause(0.001)
+    plt.pause(0.1)
 
 plt.show()
