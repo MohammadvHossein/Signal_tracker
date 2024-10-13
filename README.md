@@ -13,18 +13,17 @@ The **Signal Tracker** project simulates the movement of two targets towards a r
 - Visualization of both the targeting and random movements.
 - Real-time updates of positions using Matplotlib.
 
-## Requirements
-
-To run this project, you need to install the following packages:
-
-- `numpy`
-- `matplotlib`
-
-You can find the required packages in the `requirements.txt` file.
-
 ## Installation
 
-1. Clone the repository:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+To run the **Signal Tracker** simulation, follow these steps:
+
+1. **Run the Simulation**: Execute the following command in your terminal:
    ```bash
-   git clone https://github.com/yourusername/signal-tracker.git
-   cd signal-tracker
+   python Track_Stop.py
+   ```
